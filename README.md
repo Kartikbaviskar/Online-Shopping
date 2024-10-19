@@ -19,6 +19,6 @@ RAM 250 MB
 Minimum Space Required 100 MB
 Display 16 bit color 
  Software Specification -
-Operating Environment Win 2000/XP
-Platform .Net Framework & IIS Visual Studio 2008
-Database SQL Server 2005 
+Operating Environment Win XP/7/10
+Platform Eclipse 
+Database Xamp Local Host. 
